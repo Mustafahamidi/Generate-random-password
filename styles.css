@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+main {
+    width: 100%;
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.container {
+    width: 500px;
+    height: 450px;
+    background-color: #1F2937;
+    border-radius: 25px;
+    border-color: #ffffff;
+    padding: 20px;
+    border: 5px solid #7cac8e;
+
+}
+.container span {
+    color:#10B981;
+}
+.container h1 {
+    font-size: 40px;
+    font-weight: 700;
+    color: rgb(245, 232, 232);
+    margin-top: 50px;
+    text-shadow: 0px 0px 3px;
+    
+}
+.info{
+    font-size: 18px;
+    margin: 10px 0;
+    padding: 10px 0;
+    color: #ffffff;
+    font-weight: bold;
+    
+}
+.container button {
+    padding: 10px 12px;
+    border-radius: 8px;
+    margin: 20px 0px;
+    background-color: #10B981;
+    color: #ffffff;
+    border-color: #10B981;
+    font-size: 15px;
+    opacity: 0.8;
+}
+.container button:hover {
+    opacity: 1;
+}
+.border {
+    border-bottom: 2px solid #2F3E53;
+}
+.password-box {
+    width: 100%;
+    height: 100px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+
+}
+.password {
+    width: 150px;
+    height: 30px;
+    border-radius: 3px;
+    color: #10B981;
+    background-color: #273549;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+    font-weight: 500;
+}
