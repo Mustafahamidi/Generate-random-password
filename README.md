@@ -20,4 +20,4 @@ A simple JavaScript-based password generator that creates two random passwords w
 ## 🔧 Setup
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/your-username/repo-name.git
+   git clone https://github.com/Mustafahamidi/repo-name.git
